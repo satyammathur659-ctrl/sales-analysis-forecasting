@@ -1,3 +1,4 @@
+![Sales Forecasting](https://img.shields.io/badge/Project-Sales%20Analysis%20%26%20Forecasting-blue)
 # 📊 Sales Analysis & Forecasting Project
 
 This project analyzes historical sales data to uncover trends, identify top-performing products/categories, and forecast future sales using ARIMA and SARIMA time-series models.
